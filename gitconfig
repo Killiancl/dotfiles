@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = 100  279k  100  279k    0     0   130k      0  0:00:02  0:00:02 --:--:--  130k
-	name = Killian Chopardlallier killiancl64@gmail.com
+	email = killiancl64@gmail.com
+	name = Killian Chopardlallier
